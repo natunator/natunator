@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @natunator
+- 👋 Hi, I’m Rohit.
 - 👀 I’m interested in Robotics, 3D Art and Cycling.
 - 🌱 I’m currently learning SLAM systems, C++ and Blender.
 - 💞️ I’m looking to collaborate on Autonomous navigation systems and open source contributing.
